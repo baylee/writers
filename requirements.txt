@@ -1,0 +1,13 @@
+Django==1.6.5
+Fabric==1.8.2
+South==0.8.4
+ecdsa==0.10
+paramiko==1.12.2
+psycopg2==2.5.3
+pycrypto==2.6.1
+simplejson==3.3.3
+stevedore==0.15
+virtualenv==1.11.6
+virtualenv-clone==0.2.5
+virtualenvwrapper==4.3
+wsgiref==0.1.2
